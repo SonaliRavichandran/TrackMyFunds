@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dashboard" type="id" />
+    <item name="categorygroup" type="id" />
+    <item name="radiofood" type="id" />
+    <item name="category" type="id" />
+    <item name="food" type="id" />
+    <item name="transport" type="id" />
+    <item name="Rent" type="id" />
+    <item name="entertainment" type="id" />
+    <item name="Add" type="id" />
+    <item name="entertain" type="id" />
+    <item name="option4" type="id" />
+    <item name="radiogroupcate" type="id" />
+    <item name="groupcate" type="id" />
+    <item name="addtextview" type="id" />
+    <item name="Update" type="id" />
+    <item name="Delete" type="id" />
+    <item name="View" type="id" />
+    <item name="recyclerview" type="id" />
+    <item name="btnupdate" type="id" />
+    <item name="groupcateupdate" type="id" />
+</resources>
